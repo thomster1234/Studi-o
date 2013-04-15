@@ -1,5 +1,4 @@
 Studi-o
 =======
 
-Hier komt de unity project file van de Pabo Game.
-hallo.
+Hier komt de unity project file van de Pabo Game
